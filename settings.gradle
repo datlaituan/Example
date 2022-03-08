@@ -1,0 +1,6 @@
+rootProject.name = 'Example'
+include 'application-core'
+include 'user-input-adapter'
+include 'user-database-adapter'
+include 'user-operation-adapter'
+
